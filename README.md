@@ -14,3 +14,7 @@ https://user-images.githubusercontent.com/78875455/179469404-ccef7b53-ca5d-4073-
 ### To run the app in the development mode:
 Type using terminal
 `npm run`
+
+## Demo
+[Live demo link](https://pdp-exam.netlify.app/)
+
